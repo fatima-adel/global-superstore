@@ -1,6 +1,7 @@
 # global-superstore
 Basic PowerBI Dashboard
 
+# Global Superstore 2016
 This Dashboard depicts the Sales for a Global Store through From 2012 till 2015.
 The data provides all sales information including customer, product details, country, market, shippping info, sales, profit, returns, etc.
 
